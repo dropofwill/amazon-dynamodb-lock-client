@@ -39,7 +39,7 @@
         <dynamodblocal.version>1.11.119</dynamodblocal.version>
         <mockito.version>2.23.0</mockito.version>
         <powermock.version>2.0.9</powermock.version>
-        <hamcrest.version>1.3</hamcrest.version>
+        <hamcrest.version>2.2</hamcrest.version>
         <bytebuddy.version>1.12.10</bytebuddy.version>
 
         <!-- test toolchain -->
