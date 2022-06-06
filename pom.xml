@@ -53,7 +53,7 @@
 
         <!-- code quality tools -->
         <maven.checkstyle.plugin.version>3.0.0</maven.checkstyle.plugin.version>
-        <spotbugs-maven-plugin.version>3.1.10</spotbugs-maven-plugin.version>
+        <spotbugs-maven-plugin.version>4.7.0.0</spotbugs-maven-plugin.version>
         <jacoco.version>0.8.8</jacoco.version>
         <jacoco.it.execution.data.file>${project.build.directory}/coverage-reports/jacoco-it.exec</jacoco.it.execution.data.file>
         <jacoco.ut.execution.data.file>${project.build.directory}/coverage-reports/jacoco-ut.exec</jacoco.ut.execution.data.file>
