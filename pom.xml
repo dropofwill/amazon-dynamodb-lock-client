@@ -45,7 +45,7 @@
         <!-- test toolchain -->
         <junit.version>4.13.2</junit.version>
         <log4j-core.version>2.17.2</log4j-core.version>
-        <maven.surefire.version>3.0.0-M6</maven.surefire.version>
+        <maven.surefire.version>3.0.0-M9</maven.surefire.version>
         <maven.failsafe.version>3.0.0-M6</maven.failsafe.version>
         <docker.maven.plugin.version>0.28.0</docker.maven.plugin.version>
         <build.profile.id>dev</build.profile.id>
